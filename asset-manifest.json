@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-infinite-scroll-gallery/static/css/main.27a11864.chunk.css",
+    "main.js": "/react-tailwind-infinite-scroll-gallery/static/js/main.56467736.chunk.js",
+    "main.js.map": "/react-tailwind-infinite-scroll-gallery/static/js/main.56467736.chunk.js.map",
+    "runtime-main.js": "/react-tailwind-infinite-scroll-gallery/static/js/runtime-main.b2e927b5.js",
+    "runtime-main.js.map": "/react-tailwind-infinite-scroll-gallery/static/js/runtime-main.b2e927b5.js.map",
+    "static/js/2.ec3cb758.chunk.js": "/react-tailwind-infinite-scroll-gallery/static/js/2.ec3cb758.chunk.js",
+    "static/js/2.ec3cb758.chunk.js.map": "/react-tailwind-infinite-scroll-gallery/static/js/2.ec3cb758.chunk.js.map",
+    "index.html": "/react-tailwind-infinite-scroll-gallery/index.html",
+    "static/css/main.27a11864.chunk.css.map": "/react-tailwind-infinite-scroll-gallery/static/css/main.27a11864.chunk.css.map",
+    "static/js/2.ec3cb758.chunk.js.LICENSE.txt": "/react-tailwind-infinite-scroll-gallery/static/js/2.ec3cb758.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2e927b5.js",
+    "static/js/2.ec3cb758.chunk.js",
+    "static/css/main.27a11864.chunk.css",
+    "static/js/main.56467736.chunk.js"
+  ]
+}
